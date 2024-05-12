@@ -1,16 +1,41 @@
 May 13--------------------------
 
-https://www.geeksforgeeks.org/30-days-of-sql-from-basic-to-advanced-level/
-
 30 Days - Basic to Advanced SQL
 
+
 1. Created detailed SQL Resume
-2. Downloaded SQL Course Broucure 
 
-3. Handson -
-            1. Introduction to SQL (SQLBolt) - https://sqlbolt.com
+2. Proficient in SQL
 
-            2. Intro to SQL (Kaggle) -https://www.kaggle.com/learn/intro-to-sql
+            1. Understand the Basics: Start by learning the basic concepts of SQL, including database management systems (DBMS), relational database concepts, and SQL syntax. 
+                                      Familiarize yourself with fundamental SQL commands such as SELECT, INSERT, UPDATE, DELETE, and JOIN.
+
+            2. Take Online Courses or Tutorials: There are many free and paid online courses and tutorials available that can teach you SQL from beginner to advanced levels. Look for courses that offer interactive exercises and real-world examples to help reinforce your learning.
+               Downloaded SQL Course Broucure 
+
+            3.Practice Regularly: Practice writing SQL queries regularly to solidify your understanding of the language. Use online SQL sandboxes or set up your own local database environment to practice creating databases, tables, and writing queries.
+              Handson -
+                        1. Introduction to SQL (SQLBolt) - https://sqlbolt.com
+
+                        2. Intro to SQL (Kaggle) -https://www.kaggle.com/learn/intro-to-sql
+
+            4.Work on Real-world Projects: Apply your SQL skills to real-world projects to gain practical experience. Start with small projects and gradually work your way up to more complex ones. Consider building database-driven applications, analyzing datasets, or solving business problems using SQL.
+
+            5. Read Books and Documentation: Supplement your learning with books and official documentation on SQL and database management systems. Books like "SQL For Dummies" or "Learning SQL" can provide in-depth explanations and practical examples to help you deepen your understanding.
+
+            6. Participate in Online Communities: Join online forums, communities, and discussion groups dedicated to SQL and database management. Engage with other learners, ask questions, and share your knowledge and experiences. Websites like Stack Overflow and Reddit have active communities where you can seek help and advice.
+
+            7.Take on Challenges: Challenge yourself with SQL puzzles, quizzes, and competitions to test your knowledge and problem-solving skills. Websites like LeetCode, HackerRank, and SQLZoo offer a variety of SQL challenges that you can tackle to improve your skills.
+
+            8. Learn Advanced Topics: Once you're comfortable with the basics, explore advanced SQL topics such as subqueries, window functions, indexing, performance tuning, and database administration. These topics will help you become a more versatile and skilled SQL developer.
+
+            9. Stay Updated: Keep up with the latest trends, technologies, and best practices in SQL and database management. Follow industry blogs, attend webinars, and participate in online courses or workshops to stay informed about advancements in the field.
+
+            10. Build a Portfolio: Showcase your SQL skills by building a portfolio of projects that demonstrate your expertise. Include descriptions of the projects, the problems you solved, and the SQL techniques you used. A strong portfolio can impress potential employers and help you land job opportunities in SQL-related roles.
+
+
+
+
 
 
 
