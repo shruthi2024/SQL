@@ -9,9 +9,17 @@ May 13--------------------------
 
             1. Understand the Basics: Start by learning the basic concepts of SQL, including database management systems (DBMS), relational database concepts, and SQL syntax. 
                                       Familiarize yourself with fundamental SQL commands such as SELECT, INSERT, UPDATE, DELETE, and JOIN.
+                        
+                        1. https://cs50.harvard.edu/sql/2024/
 
             2. Take Online Courses or Tutorials: There are many free and paid online courses and tutorials available that can teach you SQL from beginner to advanced levels. Look for courses that offer interactive exercises and real-world examples to help reinforce your learning.
-               Downloaded SQL Course Broucure 
+                
+                        1. Downloaded SQL Course Broucure 
+                        2. https://www.classcentral.com/report/harvard-cs50-cybersec-sql/
+                        3. https://www.youtube.com/playlist?list=PLhQjrBD2T382v1MBjNOhPu9SiJ1fsD4C0
+
+
+
 
             3.Practice Regularly: Practice writing SQL queries regularly to solidify your understanding of the language. Use online SQL sandboxes or set up your own local database environment to practice creating databases, tables, and writing queries.
               Handson -
